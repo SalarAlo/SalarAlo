@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on a Game or a big c++ Project 
 - 📫 How to reach me: email: salarmanan8@gmail.com
 
-- Im new to coding in general and im 14 years old.
-  Ive been programming for 6 months now. 
+- Im new to coding in general and im 15 years old.
+  Ive been programming for 8 months now. 
   Previously i have used unity to programm cool games but now im trying to learn c++ becouse i want to become a software engineer.
 <!---
 SalarAlo/SalarAlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
