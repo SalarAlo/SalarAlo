@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalarAlo
 - 👀 I’m interested in Game Devolopment with C# and C++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning to work with QT and C++
 - 💞️ I’m looking to collaborate on a Game or a big c++ Project 
 - 📫 How to reach me: email: salarmanan8@gmail.com
 
