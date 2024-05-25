@@ -1,13 +1,13 @@
-<h1>Hi there Im Salar :)</h1>
-<hr>
+<h1>Hi there Im <i>Salar</i> :)</h1>
 
-<p>
-  My favourite Programming Language is C#
-</p>
-
-<p> 
-  email: salarmanan8@gmail.com
-</p>
+<ul>
+  <li>
+    My favourite Programming Language is C#
+  </li>
+  <li> 
+    My email is salarmanan8@gmail.com
+  </li>
+</ul>
  
 <!---
 SalarAlo/SalarAlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
