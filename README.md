@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SalarAlo
-- 👀 I’m interested in Game Devolopment with C# and C++
-- 🌱 I’m currently learning to work with Webdevolopement
-- 💞️ I’m looking to collaborate on a Game or a big c++ Project 
-- 📫 How to reach me: email: salarmanan8@gmail.com
-- 💘 My favourite Programming Language is C#
-  
+<h1>Hi there Im Salar :)</h1>
+<hr>
+<p> 
+  email: salarmanan8@gmail.com
+</p>
+<p>
+  My favourite Programming Language is C#
+</p>
+ 
 <!---
 SalarAlo/SalarAlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
