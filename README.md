@@ -2,10 +2,13 @@
 
 <ul>
   <li>
-    My favourite Programming Language is C#
+    Im 15 years old 👶
+  </li>
+  <li>
+    My favourite Programming Language is C# 💘
   </li>
   <li> 
-    My email is salarmanan8@gmail.com
+    My email is salarmanan8@gmail.com 👤
   </li>
 </ul>
  
