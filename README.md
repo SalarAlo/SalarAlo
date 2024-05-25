@@ -1,10 +1,12 @@
 <h1>Hi there Im Salar :)</h1>
 <hr>
-<p> 
-  email: salarmanan8@gmail.com
-</p>
+
 <p>
   My favourite Programming Language is C#
+</p>
+
+<p> 
+  email: salarmanan8@gmail.com
 </p>
  
 <!---
