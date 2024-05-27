@@ -7,6 +7,12 @@
   <li>
     My favourite Programming Language is C# 💘
   </li>
+  <li>
+    I know javascript, C++, Lua, Python and C# 🤠
+  </li>
+  <li>
+    Frontend Webdevelopment with React and Gamdevelopment with Unity 🧑‍💻
+  </li>
   <li> 
     My email is salarmanan8@gmail.com 👤
   </li>
