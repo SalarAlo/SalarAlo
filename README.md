@@ -11,7 +11,7 @@
     I know javascript, C++, Lua, Python and C# 🤠
   </li>
   <li>
-    Frontend Webdevelopment with React and Gamdevelopment with Unity 🧑‍💻
+    Frontend Webdevelopment with React and Gamedevelopment with Unity 🧑‍💻
   </li>
   <li> 
     My email is salarmanan8@gmail.com 👤
