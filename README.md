@@ -14,7 +14,7 @@
     Frontend Webdevelopment with React and Gamedevelopment with Unity 🧑‍💻
   </li>
   <li> 
-    I use vim motions by the way 
+    I use vim motions by the way 🤓
   </li>
   <li> 
     My email is salarmanan8@gmail.com 👤
