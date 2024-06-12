@@ -16,9 +16,6 @@
   <li> 
     I use vim motions by the way 🤓
   </li>
-  <li> 
-    My email is salarmanan8@gmail.com 👤
-  </li>
 </ul>
  
 <!---
