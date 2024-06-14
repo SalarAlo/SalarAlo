@@ -14,7 +14,7 @@
     Frontend Webdevelopment with React and Gamedevelopment with Unity 🧑‍💻
   </li>
   <li> 
-    I use neovim by the way 🤓
+    I use vim motions by the way 🤓
   </li>
 </ul>
  
