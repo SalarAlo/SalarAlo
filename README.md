@@ -1,4 +1,4 @@
-<h1>Hi there Im <i>Salar</i> :)</h1>
+<h1>Hi there Im <i>Salar</i></h1>
 
 <ul>
   <li>
