@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
-🔭 I’m currently working on a **Sims Clone**
-
+  
 🌱 I’m currently learning **Procedural Voxel Terrain Generation**
+
+🔭 I’m currently working on a **Sims Clone**
 
 👯 I’m looking to collaborate on **Any Game using the Unity Game Engine**
 
