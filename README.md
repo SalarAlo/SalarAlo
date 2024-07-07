@@ -50,7 +50,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salaralo&show_icons=true&locale=en&layout=compact" alt="salaralo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salaralo&show_icons=true&locale=en" alt="salaralo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=salaralo&show_icons=true&locale=en" alt="salaralo" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salaralo&" alt="salaralo" /></p>
 
