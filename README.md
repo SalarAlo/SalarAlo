@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salaralo" alt="salaralo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<div alifn="center">
 - 🔭 I’m currently working on a **Sims Clone**
 
 - 🌱 I’m currently learning **Procedural Voxel Terrain Generation**
@@ -18,6 +18,7 @@
 - 📫 How to reach me **salarmanan8@gmail.com**
 
 - ⚡ Fun fact **I use vim motions**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
