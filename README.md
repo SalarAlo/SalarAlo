@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
-- 🔭 I’m currently working on a **Sims Clone**
+🔭 I’m currently working on a **Sims Clone**
 
-- 🌱 I’m currently learning **Procedural Voxel Terrain Generation**
+🌱 I’m currently learning **Procedural Voxel Terrain Generation**
 
-- 👯 I’m looking to collaborate on **Any Game using the Unity Game Engine**
+👯 I’m looking to collaborate on **Any Game using the Unity Game Engine**
 
-- 💬 Ask me about **unity, react**
+💬 Ask me about **unity, react**
 
-- 📫 How to reach me **salarmanan8@gmail.com**
+📫 How to reach me **salarmanan8@gmail.com**
 
-- ⚡ Fun fact **I use vim motions**
+⚡ Fun fact **I use vim motions**
 </div>
 
 <h3 align="left">Connect with me:</h3>
