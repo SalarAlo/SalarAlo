@@ -16,9 +16,9 @@
 
 💬 Ask me about **unity, react**
 
-📫 How to reach me **salarmanan8@gmail.com**
-
 ⚡ Fun fact **I use vim motions**
+
+📫 How to reach me **salarmanan8@gmail.com**
 </div>
 
 <h3 align="left">Connect with me:</h3>
