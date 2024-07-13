@@ -10,7 +10,7 @@
   
 🌱 I’m currently learning **Procedural Voxel Terrain Generation**
 
-🔭 I’m currently working on a **Sims Clone**
+🔭 I’m currently working on a **farming game called Overhaul**
 
 👯 I’m looking to collaborate on **Any Game using the Unity Game Engine**
 
