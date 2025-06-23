@@ -8,15 +8,13 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="center">
   
-🌱 I’m currently learning **Procedural Voxel Terrain Generation**
+🌱 I’m currently learning **Graphics Programming**
 
-🔭 I’m currently working on a **survival game called Eldergrow**
+🔭 I’m currently working on my **Gameengine "Sparky"**
 
 👯 I’m looking to collaborate on **Any Game using the Unity Game Engine**
 
-💬 Ask me about **unity, react**
-
-⚡ Fun fact **I use vim motions**
+⚡ Fun fact **I have a zsa moonlander**
 
 📫 How to reach me **salarmanan8@gmail.com**
 </div>
