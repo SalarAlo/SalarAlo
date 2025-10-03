@@ -1,11 +1,15 @@
-17 year old Programmer in Germany
+# Salar
 
-Currently Learning
-    - Game Engine Programming
-    - Hyperbolic Projection
-    - CMake 
-    - Advanced Template Programming in C++
-    - OpenGL
+17-year-old programmer in Germany  
 
-Vibe coding is weird
+---
+
+## Currently Learning
+- Game Engine Programming
+- Hyperbolic Projection
+- CMake
+- Advanced Template Programming in C++
+- OpenGL
+
+Vibe Coding is weird 
 I use Neovim btw
