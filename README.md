@@ -11,5 +11,6 @@
 - Advanced Template Programming in C++
 - OpenGL
 
-Vibe Coding is weird 
+Vibe Coding is weird <br>
+
 I use Neovim btw
