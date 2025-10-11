@@ -2,8 +2,6 @@
 
 17-year-old programmer in Germany  
 
----
-
 ## Currently Learning
 - Game Engine Programming
 - Operating Systems 3 easy pieces
