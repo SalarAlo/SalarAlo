@@ -6,8 +6,7 @@
 
 ## Currently Learning
 - Game Engine Programming
-- Hyperbolic Projection
-- CMake
+- Operating Systems 3 easy pieces
 - Advanced Template Programming in C++
 - OpenGL
 
