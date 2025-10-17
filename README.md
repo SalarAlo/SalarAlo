@@ -20,5 +20,5 @@ Early university student in Computer Science (University of Koblenz, 2nd semeste
 - OpenGL Rendering Pipeline  
 - Advanced Template Metaprogramming in C++
 
-Based in Neuwied, Germany
+Based in Neuwied, Germany <br>
 *Contact*: salarmanan8@gmail.com
