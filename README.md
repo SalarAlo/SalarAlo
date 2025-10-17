@@ -19,3 +19,6 @@ Early university student in Computer Science (University of Koblenz, 2nd semeste
 - Operating Systems: *Three Easy Pieces*  
 - OpenGL Rendering Pipeline  
 - Advanced Template Metaprogramming in C++
+
+Based in Neuwied, Germany
+*Contact*: salarmanan8@gmail.com
