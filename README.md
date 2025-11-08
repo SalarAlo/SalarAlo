@@ -7,9 +7,9 @@ Early university student in Computer Science (University of Koblenz, 2nd semeste
 
 ## Interests
 - Game Engine Architecture and Rendering Systems
+- C++
 - Haskell
 - Operating Systems  
-- Advanced C++
 - OpenGL and Graphics APIs
 
 ---
@@ -17,7 +17,6 @@ Early university student in Computer Science (University of Koblenz, 2nd semeste
 ## Currently Learning
 - Game Engine Programming  
 - Operating Systems: *Three Easy Pieces*  
-- OpenGL Rendering Pipeline  
 - Advanced Template Metaprogramming in C++
 
 Based in Neuwied, Germany <br>
