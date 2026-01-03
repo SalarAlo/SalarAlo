@@ -15,10 +15,10 @@ Currently working on my game engine **origo**
 
 ---
 
-## Currently Learning
+## Currently Learning / Reading
 - Game Engine Programming  
 - Operating Systems: *Three Easy Pieces*  
-- Advanced Template Metaprogramming in C++
+- C++17 IN DETAIL
 
 Based in Koblenz, Germany <br>
 *Contact*: salarmanan8@gmail.com
