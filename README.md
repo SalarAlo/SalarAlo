@@ -19,8 +19,7 @@ Currently working on my game engine **origo** and my interpreted programming lan
 ## Currently Learning / Reading
 - Game Engine Programming  
 - Compiler and Interpreter Programming
-- C++17 IN DETAIL
-- OSTEP
+- Linear Algebra Done Right
 
 Based in Koblenz, Germany <br>
 *Contact*: salarmanan8@gmail.com
