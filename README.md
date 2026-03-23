@@ -19,7 +19,7 @@ Currently working on my game engine **origo** and my interpreted programming lan
 ## Currently Learning / Reading
 - Game Engine Programming  
 - Compiler and Interpreter Programming
-- Linear Algebra Done Right
+- Hyperbolic Space Rendering
 
 Based in Koblenz, Germany <br>
 *Contact*: salarmanan8@gmail.com
