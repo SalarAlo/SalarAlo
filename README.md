@@ -3,7 +3,7 @@
 17-year-old programmer based in Germany  
 Early-entry Computer Science student (B.Sc.) at the University of Koblenz<br>
 Dual-enrolled while completing secondary education (Abitur) under Germany’s Frühstudium program.<br>
-Currently working on my game engine **origo** and my interpreted programming language **noct**.
+Currently working on my game engine **origo** and my text editor **ted**.
 
 ---
 
@@ -17,9 +17,8 @@ Currently working on my game engine **origo** and my interpreted programming lan
 ---
 
 ## Currently Learning / Reading
-- Game Engine Programming  
+- Game Engine Programming
 - Compiler and Interpreter Programming
-- Hyperbolic Space Rendering
 
 Based in Koblenz, Germany <br>
 *Contact*: salarmanan8@gmail.com
